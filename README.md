@@ -11,7 +11,7 @@
 ## :movie_camera: Mapa Dev Week : Projeto Super Mario Bros - O Filme
 >
 
-Página sobre o novo lançamento do filme do Mario. <br>
+Página sobre o lançamento do filme do Mario. <br>
 Tecnologias usadas:
  
 * HTML
