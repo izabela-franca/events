@@ -39,4 +39,9 @@ Tecnologias usadas:
  
 - Java 17
 - Spring Boot
+- Spring Data JPA
 - Lombok
+- MySQL
+- Flyway
+- Jakarta Persistence JPA
+- Bean Validation
