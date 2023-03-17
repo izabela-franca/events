@@ -16,6 +16,11 @@ public class CatalogoClienteService {
 	//Poderia ser injetado com Autowired, mas foi utilizado AllArgsConstructor
 	private ClienteRepository clienteRepository;
 
+	public Cliente buscar(Long clienteId) {
+		return clienteRepository.findById(clienteId)
+				.orElseThrow(() -> new NegocioException("Cliente não encontrado"));
+	}
+	
 	@Transactional
 	public Cliente salvar(Cliente cliente) {
 		//Aplicar regras de negócio
