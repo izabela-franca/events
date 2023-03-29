@@ -6,6 +6,7 @@
 ## 📃 Saiba mais sobre os projetos:
 - [Mapa Dev Week](#ancora1)
 - [Mergulho Spring REST](#ancora2)
+- [Alura: Imersão Java](#ancora3)
 
 
 <a id="ancora1"></a>
@@ -36,3 +37,13 @@ Tecnologias usadas:
 - Flyway
 - Jakarta Persistence JPA
 - Bean Validation
+
+<a id="ancora3"></a>
+## :page_with_curl: Alura: Imersão Java
+>
+
+Construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
+
+Tecnologias usadas:
+- Java 17
+- API do IMDB
